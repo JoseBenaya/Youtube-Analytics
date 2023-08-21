@@ -4,7 +4,7 @@ This project aims to securely manage, streamline, and perform analysis on the st
 
 # Architecture
 
-![Architecture](Youtube Analytics Pipeline.jpeg)
+![Architecture](https://github.com/JoseBenaya/Youtube-Analytics/blob/main/Youtube%20Analytics%20Pipeline.jpeg?raw=true)
 
 # Services Used
 
